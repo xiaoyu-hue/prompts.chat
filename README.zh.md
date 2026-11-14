@@ -162,7 +162,7 @@ npx prompts.chat
 /plugin marketplace add f/prompts.chat
 /plugin install prompts.chat@prompts.chat
 ```
-📖 [插件文档](CLAUDE-PLUGIN.md)（英文）
+📖 [插件文档](CLAUDE-PLUGIN.zh.md)（[English](CLAUDE-PLUGIN.md)）
 
 ### MCP Server
 在你的 AI 工具中把 prompts.chat 当作 MCP 服务器使用。
