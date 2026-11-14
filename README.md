@@ -1,3 +1,7 @@
+<p align="center">
+  <strong>English</strong> · <a href="README.zh.md">简体中文</a>
+</p>
+
 <h1 align="center">
   <a href="https://prompts.chat">
     <picture>
